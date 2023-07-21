@@ -1,0 +1,6 @@
+This is a test file
+line 2
+Some more text
+line 4 of the example file
+okay I'm done
+Another line

@@ -1,0 +1,16 @@
+[package]
+name = "grit"
+version = "0.1.0"
+edition = "2021"
+authors = ["bhekanik"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.24"
+colored = "2.0.0"
+flate2 = "1.0.26"
+hex = "0.4.3"
+imara-diff = "0.1.5"
+sha1 = "0.10.5"
+walkdir = "2.3.3"
